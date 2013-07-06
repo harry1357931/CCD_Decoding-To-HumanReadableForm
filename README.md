@@ -5,11 +5,6 @@ This repository contains program that decodes any given CCD document to HRF(Huma
 In this assignment, HRF is referring to Text File which is outputted by the program.
 
 Note: The program in this repository doesn't decode all sections of CCD document.
-<b>Sections in ReadMe File</b><br>
-&nbsp;&nbsp;&nbsp;&nbsp;About CCD <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Source Code File <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Examples of Input & Output File <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;For more Info. <br>
 
 About CCD:
 =========
